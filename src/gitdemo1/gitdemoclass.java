@@ -8,5 +8,6 @@ public class gitdemoclass {
         System.out.println("hello world4");
         System.out.println("hello world hot-fix 2");
         System.out.println("hello world push-test");
+        System.out.println("hello world pull-test");
     }
 }
